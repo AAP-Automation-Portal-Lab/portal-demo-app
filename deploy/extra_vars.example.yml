@@ -1,0 +1,8 @@
+---
+# Example extra_vars for the portal "Cloud/AWS Create RHEL9 instance" JT
+# when provisioning hosts that will run this application.
+app_name: northwind-portal-demo
+nw_owner: cloud-ops@northwind.example
+nw_cost_center: CC-2400
+nw_environment: lab
+nw_application: portal-demo-app
